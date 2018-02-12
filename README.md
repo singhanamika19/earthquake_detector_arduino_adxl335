@@ -1,0 +1,1 @@
+# earthquake_detector_arduino_adxl335
